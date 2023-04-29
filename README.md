@@ -3,4 +3,4 @@
 
 • Compatibility support with Outfitter.
 
-![AllStats](https://github.com/SylvieDuskhaven/zAllStats/blob/main/Preview.png)
+![AllStats](https://github.com/SylvieDuskhaven/zAllStats/blob/master/Preview.png)
